@@ -1,0 +1,6 @@
+__pycache__/
+mlartifacts/
+mlruns/
+model.pth
+.DS_Store
+README.md

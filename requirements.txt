@@ -1,0 +1,6 @@
+torch
+pandas
+torchvision
+tqdm
+PyYAML
+mlflow
