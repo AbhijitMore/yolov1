@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from config import ARCHITECTURE_CONFIG, HYPERPARAMS
+from nets.nets_config import ARCHITECTURE_CONFIG, HYPERPARAMS
 
 class CNNBlock(nn.Module):
     """
