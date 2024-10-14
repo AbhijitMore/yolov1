@@ -1,6 +1,6 @@
 # YoloV1 Object Detection Implementation
 
-This repository implements a YoloV1 model for object detection using PyTorch. The project utilizes custom utilities, datasets, and configurations for training, evaluation, and prediction. The key focus is on detecting fruits in images.
+This repository implements a YoloV1 model for object detection using PyTorch. The project utilizes custom utilities, datasets, and configurations for training, evaluation, and prediction.
 
 ## Directory Structure
 
